@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/freenemya/.android/build-cache/892613ffc9a8b65360bc7d14f029f2b0b48a1f4e/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

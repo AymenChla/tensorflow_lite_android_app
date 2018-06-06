@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/freenemya/.android/build-cache/a767ffa44439d86ae4946d07e9c1495598d19382/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e153e621b83de75f024b7579da4b13daf922e29c.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.3.1-d5b494062b5556183fe05acde24efcfb00f87dd3.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/.android/build-cache/5f06d5c7f272e6fc828399cc20e714fb2be38c1e/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-94cd68077559f6aff608256f8d8fcc3154f355bd.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/Android/Sdk/platforms/android-26/optional/org.apache.http.legacy.jar"
+        revision="26.0.1"
+        sha1="d5b8c556427a60ed5f7f0abc415555de7bbba1ad">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-186e43e326d15114854369197867cde0185ddde1.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/.android/build-cache/892613ffc9a8b65360bc7d14f029f2b0b48a1f4e/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-90f755738a58e26e78e2a9493e077910f20fd9e1.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/.android/build-cache/2ebbe5fea9dea7d494d9dc33bac0b0d49cd07768/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-99e501916f59e4822767e863dc62b341cb845d5f.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/.android/build-cache/e7530478d6ee266ce5e548404613cfd31ab2e126/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e73e856fadf50383d5fe8bd77c42f4bd86230e45.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/.android/build-cache/642a4c3489783553ed8cde8b00ca3d653afd2ed4/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="89753f663ba6496381cd65c5d414ff11c0028fba">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5367141775d030002b861ab42fa300dadfd3ed98.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-46c762db4bb6ce16a059c8d3bd2b6291d3be1a36.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/.android/build-cache/e13b363f3237dfdf96c34e11bd100669284f9f44/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="20e6d443b368a3cbcfd9121e6f424708e772967e">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-bced96d687640949d6a67ffe908c20c59152df91.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/.android/build-cache/25136e39309280b6f800ba0f50c59e0982a3e184/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8ac5446a51c2d33321829022d8e2a9acd4993f2a.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/.android/build-cache/a54f96cab3686ae290ff47be48ffa1938e51178f/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f58f79b53d57d83d105c4cd507dfd475d8803d20.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/.android/build-cache/04995d20d5c6809afc78f1716dc3d1a50271a0b7/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-778e7ba8298c6ce353a8b163e6a00f109bda854a.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.2-ab54d7c669881ed6c26bab6ca77769dbfa7b3ac2.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/Android/Sdk/platforms/android-26/android.jar"
+        revision="26.0.1"
+        sha1="18eaee6ff2a1c15c603daafb41277ea9376f30b5">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-49e0e88fcf952282a4487c1473377726c99907ef.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/.android/build-cache/37049aaa78eeda4e8774f76b63c8d9ebe4cbaaeb/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5518df198e3c93ed353e43f8c0cb226d1804e1bc.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/.android/build-cache/366e3ecaf96c6e91f9b2427c07dc4a6b70c8ef8c/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a6aa063dd523085d06d8aa35dad07aeb873a0234.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/.android/build-cache/6e6a73a19e4460a0286c7ddc64c2e0a4468565da/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-35bf14273bf17a172d89de5e57c1145f613c8d60.jar" />
+    </item>
+    <item
+        jar="/home/freenemya/.android/build-cache/be0a83b7feff6e4a83c6a48f2836f4a2625a1497/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-1182d30fca368ae1a4d2cf6090860cdd56862514.jar" />
+    </item>
+
+</items>

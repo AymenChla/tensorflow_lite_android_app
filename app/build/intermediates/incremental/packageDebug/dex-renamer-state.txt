@@ -1,0 +1,4 @@
+#Wed Jun 06 10:17:51 WET 2018
+base.0=/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/jack/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/transforms/jack/debug/folders/1000/1f/main/classes.dex

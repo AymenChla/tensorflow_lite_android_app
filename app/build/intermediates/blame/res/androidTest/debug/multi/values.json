@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/freenemya/.android/build-cache/6c9b635947d59e50b2e2eef0f7e795e81fe41d68/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

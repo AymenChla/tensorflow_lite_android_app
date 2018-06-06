@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]

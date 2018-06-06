@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/freenemya/.android/build-cache/892613ffc9a8b65360bc7d14f029f2b0b48a1f4e/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/freenemya/.android/build-cache/892613ffc9a8b65360bc7d14f029f2b0b48a1f4e/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

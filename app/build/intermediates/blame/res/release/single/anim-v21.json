@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/freenemya/.android/build-cache/892613ffc9a8b65360bc7d14f029f2b0b48a1f4e/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/freenemya/.android/build-cache/892613ffc9a8b65360bc7d14f029f2b0b48a1f4e/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

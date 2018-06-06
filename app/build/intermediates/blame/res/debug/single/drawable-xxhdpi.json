@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_info.png",
+        "source": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/res/drawable-xxhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/res/drawable-xxhdpi/logo.png"
+    }
+]

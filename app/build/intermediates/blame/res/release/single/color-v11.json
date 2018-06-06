@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

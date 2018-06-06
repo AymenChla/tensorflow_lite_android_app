@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:18:1-43:12
+	package
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:24:19-67
+uses-sdk
+ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:26:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/freenemya/.android/build-cache/04995d20d5c6809afc78f1716dc3d1a50271a0b7/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] /home/freenemya/.android/build-cache/892613ffc9a8b65360bc7d14f029f2b0b48a1f4e/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/freenemya/.android/build-cache/a767ffa44439d86ae4946d07e9c1495598d19382/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/freenemya/.android/build-cache/25136e39309280b6f800ba0f50c59e0982a3e184/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/freenemya/.android/build-cache/366e3ecaf96c6e91f9b2427c07dc4a6b70c8ef8c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/freenemya/.android/build-cache/6e6a73a19e4460a0286c7ddc64c2e0a4468565da/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:25.2.0] /home/freenemya/.android/build-cache/e13b363f3237dfdf96c34e11bd100669284f9f44/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:25.2.0] /home/freenemya/.android/build-cache/2ebbe5fea9dea7d494d9dc33bac0b0d49cd07768/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/freenemya/.android/build-cache/a54f96cab3686ae290ff47be48ffa1938e51178f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/freenemya/.android/build-cache/5f06d5c7f272e6fc828399cc20e714fb2be38c1e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/freenemya/.android/build-cache/be0a83b7feff6e4a83c6a48f2836f4a2625a1497/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/freenemya/.android/build-cache/37049aaa78eeda4e8774f76b63c8d9ebe4cbaaeb/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/freenemya/.android/build-cache/e7530478d6ee266ce5e548404613cfd31ab2e126/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/freenemya/.android/build-cache/892613ffc9a8b65360bc7d14f029f2b0b48a1f4e/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:28:5-41:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/freenemya/.android/build-cache/04995d20d5c6809afc78f1716dc3d1a50271a0b7/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] /home/freenemya/.android/build-cache/892613ffc9a8b65360bc7d14f029f2b0b48a1f4e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/freenemya/.android/build-cache/26e9e14b7847b68d02067947a4dbad5d6d02f665/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/freenemya/.android/build-cache/a767ffa44439d86ae4946d07e9c1495598d19382/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/freenemya/.android/build-cache/25136e39309280b6f800ba0f50c59e0982a3e184/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/freenemya/.android/build-cache/6e6a73a19e4460a0286c7ddc64c2e0a4468565da/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/freenemya/.android/build-cache/e13b363f3237dfdf96c34e11bd100669284f9f44/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/freenemya/.android/build-cache/2ebbe5fea9dea7d494d9dc33bac0b0d49cd07768/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/freenemya/.android/build-cache/a54f96cab3686ae290ff47be48ffa1938e51178f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/freenemya/.android/build-cache/5f06d5c7f272e6fc828399cc20e714fb2be38c1e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/freenemya/.android/build-cache/be0a83b7feff6e4a83c6a48f2836f4a2625a1497/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/freenemya/.android/build-cache/37049aaa78eeda4e8774f76b63c8d9ebe4cbaaeb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/freenemya/.android/build-cache/e7530478d6ee266ce5e548404613cfd31ab2e126/output/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] /home/freenemya/.android/build-cache/642a4c3489783553ed8cde8b00ca3d653afd2ed4/output/AndroidManifest.xml:4:5-5:19
+	android:label
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:28:18-44
+	android:icon
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:30:9-45
+	android:theme
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:31:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:33:9-40:20
+	android:screenOrientation
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:34:19-55
+	android:label
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:35:19-51
+	android:name
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:33:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:38:27-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/freenemya/test_tensorflow/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite requested WRITE_EXTERNAL_STORAGE
